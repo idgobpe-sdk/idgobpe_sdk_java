@@ -1,0 +1,6 @@
+/target
+/.idea
+*.iml
+release.properties
+pom.xml.releaseBackup
+pcm_idgobpe.json
