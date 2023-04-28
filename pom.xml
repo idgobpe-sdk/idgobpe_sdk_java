@@ -4,7 +4,7 @@
 
     <groupId>io.github.idgobpe-sdk</groupId>
     <artifactId>idgobpe_sdk2_java</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>io.github.idgobpe-sdk:idgobpe_sdk2_java</name>
@@ -44,7 +44,7 @@
         <url>scm:git:git@github.com:idgobpe-sdk/idgobpe_sdk_java.git</url>
         <connection>scm:git:git@github.com:idgobpe-sdk/idgobpe_sdk_java.git</connection>
         <developerConnection>scm:git:git@github.com:idgobpe-sdk/idgobpe_sdk_java.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>idgobpe_sdk2_java-1.0.0</tag>
     </scm>
 
     <distributionManagement>
