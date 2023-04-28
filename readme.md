@@ -4,9 +4,9 @@
 
 ```
 <dependency>
-    <groupId>io.github.gobpe-sdks</groupId>
-    <artifactId>idgobpe_sdk_java</artifactId>
-    <version>1.0.4</version>
+    <groupId>io.github.idgobpe-sdk</groupId>
+    <artifactId>idgobpe_sdk2_java</artifactId>
+    <version>1.0.0</version>
 </dependency>
 ```
 
